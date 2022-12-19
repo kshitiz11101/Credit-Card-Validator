@@ -1,1 +1,1 @@
-It is a Simple C++ Program that checks the validity of your CC number:)
+A simple C++ program that checks the validity of your CC number:)
